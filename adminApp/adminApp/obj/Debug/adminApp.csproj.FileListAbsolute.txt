@@ -1,0 +1,2 @@
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\adminApp\adminApp\obj\Debug\adminApp.csprojResolveAssemblyReference.cache
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\adminApp\adminApp\obj\Debug\adminApp.csproj.CoreCompileInputs.cache

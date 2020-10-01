@@ -1,0 +1,18 @@
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\adminApp\adminApp\bin\Debug\adminApp.exe.config
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\adminApp\adminApp\bin\Debug\adminApp.exe
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\adminApp\adminApp\bin\Debug\adminApp.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\adminApp\adminApp\bin\Debug\NewsLibrary.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\adminApp\adminApp\bin\Debug\NewsLibrary.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\adminApp\adminApp\obj\Debug\adminServerApp.csprojResolveAssemblyReference.cache
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\adminApp\adminApp\obj\Debug\adminServerApp.csproj.CoreCompileInputs.cache
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\adminApp\adminApp\obj\Debug\adminApp.exe
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\adminApp\adminApp\obj\Debug\adminApp.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\adminApp\adminApp\bin\Debug\adminApp.exe.config
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\adminApp\adminApp\bin\Debug\adminApp.exe
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\adminApp\adminApp\bin\Debug\adminApp.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\adminApp\adminApp\bin\Debug\NewsLibrary.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\adminApp\adminApp\bin\Debug\NewsLibrary.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\adminApp\adminApp\obj\Debug\adminServerApp.csprojResolveAssemblyReference.cache
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\adminApp\adminApp\obj\Debug\adminServerApp.csproj.CoreCompileInputs.cache
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\adminApp\adminApp\obj\Debug\adminApp.exe
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\adminApp\adminApp\obj\Debug\adminApp.pdb

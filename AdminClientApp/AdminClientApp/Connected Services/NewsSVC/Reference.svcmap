@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e974b339-7880-45a3-996a-8ecd16bea1d2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/WCF-Project/NewsService.svc/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="d14b298f-de17-4d3b-affd-2a5d9a40a469" SourceId="1" SourceUrl="http://localhost:8080/WCF-Project/NewsService.svc/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="b2a574bc-3672-4a5f-a84a-a52bc89e229c" SourceId="1" SourceUrl="http://localhost:8080/WCF-Project/NewsService.svc/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="3273d1f4-2e2f-48d4-b19b-662899be6ad1" SourceId="1" SourceUrl="http://localhost:8080/WCF-Project/NewsService.svc/mex" />
+    <MetadataFile FileName="WCF_Project.xsd" MetadataType="Schema" ID="c4d4d761-7517-4d83-85c7-4b4f7ccd1ed6" SourceId="1" SourceUrl="http://localhost:8080/WCF-Project/NewsService.svc/mex" />
+    <MetadataFile FileName="System.Data.Linq.xsd" MetadataType="Schema" ID="6a62e80e-3713-4428-9cae-b38af4450e55" SourceId="1" SourceUrl="http://localhost:8080/WCF-Project/NewsService.svc/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

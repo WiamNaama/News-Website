@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="NewsDB" Class="NewsDBDataContext" Serialization="Unidirectional" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-RTI0Q25\SQLEXPRESS;Initial Catalog=NewsDB;Integrated Security=True" SettingsObjectName="WCF_Project.Properties.Settings" SettingsPropertyName="NewsDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Agency" Member="Agencies">
+    <Type Name="Agency">
+      <Column Name="AgencyID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="City" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Language" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="Agency_New" Member="News" ThisKey="AgencyID" OtherKey="AgencyID" Type="New" />
+    </Type>
+  </Table>
+  <Table Name="dbo.News" Member="News">
+    <Type Name="New">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="AgencyID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Title" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Abstract" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Text" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="TotalReads" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="photo" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Category" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Probability" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="Classification" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="New_Ranking" Member="Rankings" ThisKey="ID" OtherKey="NewsID" Type="Ranking" />
+      <Association Name="Agency_New" Member="Agency" ThisKey="AgencyID" OtherKey="AgencyID" Type="Agency" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ranking" Member="Rankings">
+    <Type Name="Ranking">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NewsID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Rank" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="New_Ranking" Member="New" ThisKey="NewsID" OtherKey="ID" Type="New" IsForeignKey="true" />
+      <Association Name="User_Ranking" Member="User" ThisKey="UserID" OtherKey="UserID" Type="User" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Users" Member="Users">
+    <Type Name="User">
+      <Column Name="UserID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FirstName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="LastName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="User_Ranking" Member="Rankings" ThisKey="UserID" OtherKey="UserID" Type="Ranking" />
+    </Type>
+  </Table>
+</Database>

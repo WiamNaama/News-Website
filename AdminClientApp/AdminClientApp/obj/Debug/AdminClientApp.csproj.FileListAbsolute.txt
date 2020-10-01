@@ -1,0 +1,90 @@
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\AdminClientApp.dll.config
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\AdminClientApp.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\AdminClientApp.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Antlr3.Runtime.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\AspNet.ScriptManager.bootstrap.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\AspNet.ScriptManager.jQuery.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Microsoft.AI.Agent.Intercept.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Microsoft.AI.DependencyCollector.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Microsoft.ApplicationInsights.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Microsoft.ScriptManager.WebForms.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Microsoft.Web.Infrastructure.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\NewsLibrary.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Newtonsoft.Json.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\System.Web.Optimization.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\WebGrease.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\NewsLibrary.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\System.Web.Optimization.xml
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Antlr3.Runtime.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Newtonsoft.Json.xml
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Microsoft.ApplicationInsights.xml
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\bin\Microsoft.AI.DependencyCollector.xml
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\obj\Debug\AdminClientApp.csproj.CoreCompileInputs.cache
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\obj\Debug\AdminClientApp.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\obj\Debug\AdminClientApp.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\AdminClientApp\AdminClientApp\obj\Debug\AdminClientApp.csprojResolveAssemblyReference.cache
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\AdminClientApp.dll.config
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\AdminClientApp.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\AdminClientApp.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Antlr3.Runtime.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\AspNet.ScriptManager.bootstrap.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\AspNet.ScriptManager.jQuery.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Microsoft.AI.Agent.Intercept.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Microsoft.AI.DependencyCollector.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Microsoft.ApplicationInsights.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Microsoft.ScriptManager.WebForms.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Microsoft.Web.Infrastructure.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\NewsLibrary.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Newtonsoft.Json.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\System.Web.Optimization.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\WebGrease.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\NewsLibrary.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\System.Web.Optimization.xml
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Antlr3.Runtime.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Newtonsoft.Json.xml
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Microsoft.ApplicationInsights.xml
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\bin\Microsoft.AI.DependencyCollector.xml
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\obj\Debug\AdminClientApp.csproj.CoreCompileInputs.cache
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\obj\Debug\AdminClientApp.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\obj\Debug\AdminClientApp.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\remoting\AdminClientApp\AdminClientApp\obj\Debug\AdminClientApp.csprojResolveAssemblyReference.cache
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\AdminClientApp.dll.config
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\AdminClientApp.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\AdminClientApp.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Antlr3.Runtime.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\AspNet.ScriptManager.bootstrap.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\AspNet.ScriptManager.jQuery.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Microsoft.AI.Agent.Intercept.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Microsoft.AI.DependencyCollector.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Microsoft.ApplicationInsights.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Microsoft.ScriptManager.WebForms.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Microsoft.Web.Infrastructure.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\NewsLibrary.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Newtonsoft.Json.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\System.Web.Optimization.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\WebGrease.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\NewsLibrary.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\System.Web.Optimization.xml
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Antlr3.Runtime.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Newtonsoft.Json.xml
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Microsoft.ApplicationInsights.xml
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\bin\Microsoft.AI.DependencyCollector.xml
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\obj\Debug\AdminClientApp.csprojResolveAssemblyReference.cache
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\obj\Debug\AdminClientApp.csproj.CoreCompileInputs.cache
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\obj\Debug\AdminClientApp.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\ADP HW\AdminClientApp\AdminClientApp\obj\Debug\AdminClientApp.pdb

@@ -1,0 +1,6 @@
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\NewsLibrary\NewsLibrary\bin\Debug\NewsLibrary.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\NewsLibrary\NewsLibrary\bin\Debug\NewsLibrary.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\NewsLibrary\NewsLibrary\obj\Debug\NewsLibrary.csprojResolveAssemblyReference.cache
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\NewsLibrary\NewsLibrary\obj\Debug\NewsLibrary.csproj.CoreCompileInputs.cache
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\NewsLibrary\NewsLibrary\obj\Debug\NewsLibrary.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\NewsLibrary\NewsLibrary\obj\Debug\NewsLibrary.pdb

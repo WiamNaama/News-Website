@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WCF_Project" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WCF_Project" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.datacontract.org/2004/07/System.Data.Linq" />
+  <xs:complexType name="ArrayOfNew">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="New" nillable="true" type="tns:New" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfNew" nillable="true" type="tns:ArrayOfNew" />
+  <xs:complexType name="New">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ID" type="xs:int" />
+      <xs:element minOccurs="0" name="AgencyID" type="xs:int" />
+      <xs:element minOccurs="0" name="Date" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Title" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Abstract" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Text" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TotalReads" nillable="true" type="xs:int" />
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/System.Data.Linq" minOccurs="0" name="photo" nillable="true" type="q1:Binary" />
+      <xs:element minOccurs="0" name="Category" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Probability" nillable="true" type="xs:float" />
+      <xs:element minOccurs="0" name="Classification" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Rankings" nillable="true" type="tns:ArrayOfRanking">
+        <xs:annotation>
+          <xs:appinfo>
+            <DefaultValue EmitDefaultValue="false" xmlns="http://schemas.microsoft.com/2003/10/Serialization/" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="New" nillable="true" type="tns:New" />
+  <xs:complexType name="ArrayOfRanking">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Ranking" nillable="true" type="tns:Ranking" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfRanking" nillable="true" type="tns:ArrayOfRanking" />
+  <xs:complexType name="Ranking">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ID" type="xs:int" />
+      <xs:element minOccurs="0" name="NewsID" type="xs:int" />
+      <xs:element minOccurs="0" name="UserID" type="xs:int" />
+      <xs:element minOccurs="0" name="Rank" nillable="true" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Ranking" nillable="true" type="tns:Ranking" />
+</xs:schema>

@@ -1,0 +1,14 @@
+C:\Users\wiam\Desktop\WCF-Project\WCF-Project\obj\Debug\WCF-Project.csproj.CoreCompileInputs.cache
+C:\Users\wiam\Desktop\WCF-Project\WCF-Project\bin\Debug\WCF-Project.dll.config
+C:\Users\wiam\Desktop\WCF-Project\WCF-Project\bin\Debug\WCF-Project.dll
+C:\Users\wiam\Desktop\WCF-Project\WCF-Project\bin\Debug\WCF-Project.pdb
+C:\Users\wiam\Desktop\WCF-Project\WCF-Project\obj\Debug\WCF-Project.dll
+C:\Users\wiam\Desktop\WCF-Project\WCF-Project\obj\Debug\WCF-Project.pdb
+C:\Users\wiam\Desktop\WCF-Project\WCF-Project\obj\Debug\WCF-Project.csprojAssemblyReference.cache
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\WCF-Project\bin\Debug\WCF-Project.dll.config
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\WCF-Project\bin\Debug\WCF-Project.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\WCF-Project\bin\Debug\WCF-Project.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\WCF-Project\obj\Debug\WCF-Project.csproj.CoreCompileInputs.cache
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\WCF-Project\obj\Debug\WCF-Project.dll
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\WCF-Project\obj\Debug\WCF-Project.pdb
+F:\جامعة افتراضية دينا\الفصل الأول\Distributed Application Programming(ADP)\الوظيفة\adp hw\WCF-Project\obj\Debug\WCF-Project.csprojResolveAssemblyReference.cache
